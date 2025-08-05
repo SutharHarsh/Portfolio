@@ -301,12 +301,12 @@ export default function Portfolio() {
       {/* Filter Categories */}
       <section className="py-8 bg-white border-b border-gray-100">
         <div className="max-w-7xl mx-auto px-6">
-          <div className="flex items-center justify-center space-x-2">
+          <div className="flex-col gap-4 md:flex-row md:items-center md:justify-center space-x-2">
             {categories.map((category) => (
               <button
                 key={category.id}
                 onClick={() => setActiveCategory(category.id)}
-                className={`px-6 py-3 rounded-full font-semibold transition-all duration-300 cursor-pointer whitespace-nowrap ${
+                className={`px-6 py-3 m-2 rounded-full font-semibold transition-all duration-300 cursor-pointer whitespace-nowrap ${
                   activeCategory === category.id
                     ? "bg-blue-600 text-white"
                     : "bg-gray-100 text-gray-700 hover:bg-gray-200"

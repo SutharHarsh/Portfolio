@@ -491,6 +491,12 @@ video {
 .z-50{
   z-index: 50;
 }
+.m-4{
+  margin: 1rem;
+}
+.m-2{
+  margin: 0.5rem;
+}
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
@@ -1311,6 +1317,9 @@ video {
   .md\:mt-40{
     margin-top: 10rem;
   }
+  .md\:flex{
+    display: flex;
+  }
   .md\:h-96{
     height: 24rem;
   }
@@ -1334,6 +1343,12 @@ video {
   }
   .md\:flex-row-reverse{
     flex-direction: row-reverse;
+  }
+  .md\:items-center{
+    align-items: center;
+  }
+  .md\:justify-center{
+    justify-content: center;
   }
   .md\:text-2xl{
     font-size: 1.5rem;
