@@ -37,7 +37,7 @@ export default function About() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-                Meet <span className="text-blue-600">Harsh Suthar</span>
+                Hey! I am, <span className="text-blue-600">Harsh Suthar</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
                 A graphic designer who transforms raw ideas into compelling digital stories. 
