@@ -15,12 +15,12 @@ export default function Portfolio() {
       title: "EcoVibes Daily Brand Identity",
       category: "branding",
       image:
-        "https://lh3.google.com/u/0/d/1OxDueLVSN5M3yr6sM6NFLqsR_JKW4oex=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/df19c1231953139.6892e27ff0955.jpg",
       images: [
-        "https://lh3.google.com/u/0/d/1OxDueLVSN5M3yr6sM6NFLqsR_JKW4oex=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1Si3pA0zOJScIU5M_mh3l_fHpC1Dsjbw-=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1pdu7Z8EbGGaV2ko1Vk10PLBeOqvf4FhB=w1330-h912-iv1?auditContext=forDisplay",
-        "https://lh3.google.com/u/0/d/1RRUeXkhq_dy-Qajn-KvCGgYbjTDrAn_L=w1330-h912-iv1?auditContext=forDisplay",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/df19c1231953139.6892e27ff0955.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/b407ed231953139.6892e27fefbd3.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/31e49e231953139.6892e27ff1031.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/source/6ed8ca231953139.6892e27ff0208.jpg",
       ],
       description: "Complete brand identity for eco-conscious lifestyle brand",
       fullDescription:
@@ -41,14 +41,14 @@ export default function Portfolio() {
       title: "Viral YouTube Thumbnail Series",
       category: "youtube",
       image:
-        "https://lh3.google.com/u/0/d/1kO-VJADTgb9z2XuHaIx31x25CxLcEqT8=w1920-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/85d44a198263095.6892e1df31beb.jpg",
       images: [
-        "https://lh3.google.com/u/0/d/1kO-VJADTgb9z2XuHaIx31x25CxLcEqT8=w1920-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/11h23HY0mRtwr_EyTLRPvVAKmWvrVPnEB=w1920-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1HA7aThn7tGqtP_jNfjq0yCj9rwqaj1wM=w1330-h912-iv1?auditContext=forDisplay",
-        "https://lh3.google.com/u/0/d/1whdY3eGFGDSCXAkQxVUz9f7xc4Ll7tOU=w1330-h912-iv1?auditContext=forDisplay",
-        "https://lh3.google.com/u/0/d/1schcsKPEcirnildiIB16VOlo4saCpvC-=w1330-h912-iv1?auditContext=forDisplay",
-        "https://lh3.google.com/u/0/d/1clEsN04SII7YK6-DZIm7vutxHXo2vbO7=w1330-h912-iv1?auditContext=forDisplay",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/85d44a198263095.6892e1df31beb.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/8259b5198263095.6892e1df3250c.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/8177e1198263095.6892e1df3170a.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/d5233a198263095.6892e1df32076.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/source/ca4dd7198263095.6892e1df33313.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/68d8d4198263095.6892e1df339ff.jpg",
       ],
       description: "High-converting thumbnails that increased CTR by 340%",
       fullDescription:
@@ -69,11 +69,11 @@ export default function Portfolio() {
       title: "BlueprintBay Corporate Suite",
       category: "branding",
       image:
-        "https://lh3.google.com/u/0/d/1bhO8nwFYTyNiNZe290eQNPAgt5GcYclN=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/97242d231953581.6892e506e4278.jpg",
       images: [
-        "https://lh3.google.com/u/0/d/1bhO8nwFYTyNiNZe290eQNPAgt5GcYclN=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/19T0UDU-Lhjsk9MCVS1fyScvoMMkK4skk=w1330-h912-iv1?auditContext=forDisplay",
-        "https://lh3.google.com/u/0/d/1CjWuL9zJJHnucx2n-ZQM-ukEEpLsoSm5=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/97242d231953581.6892e506e4278.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/c5beed231953581.6892e506e392b.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/ac620b231953581.6892e506e49a4.jpg",
       ],
       description: "Sophisticated corporate visual identity and materials",
       fullDescription:
@@ -94,12 +94,12 @@ export default function Portfolio() {
       title: "Graffical",
       category: "social",
       image:
-        "https://lh3.google.com/u/0/d/1l-ZaMWYduxAUQPzgShmQwr3rlfuDPzTG=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/3e7b60231953329.6892e3ab406ba.jpg",
       images: [
-        "https://lh3.google.com/u/0/d/1l-ZaMWYduxAUQPzgShmQwr3rlfuDPzTG=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1bVSEXAfjreQiUoavMU0CFzM4QSf5w4i4=w1330-h912-iv1?auditContext=forDisplay",
-        "https://lh3.google.com/u/0/d/1AFHezy3sTCCqcBBrxIBCj8xvmlczzVvf=w1330-h912-iv1?auditContext=forDisplay",
-        "https://lh3.google.com/u/0/d/1xgzGElOxDLmvC5Q6sy5szlCNGpI4gri1=w1330-h912-iv1?auditContext=forDisplay",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/3e7b60231953329.6892e3ab406ba.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/7a27aa231953329.6892e3ab40f4f.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/524178231953329.6892e3ab418aa.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/source/bba09e231953329.6892e3ab3ff29.jpg",
       ],
       description:
         "Designed visually engaging social media posts for Graffical to highlight their all-in-one event solutions and boost brand visibility.",
@@ -121,12 +121,12 @@ export default function Portfolio() {
       title: "Posters Doctor Clinic",
       category: "print",
       image:
-        "https://lh3.google.com/u/0/d/14QSpDGxo8IXlyCJSBvJAtu5sDe7eydlw=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/876c0e231953453.6892e465025b9.jpg",
       images: [
-        "https://lh3.google.com/u/0/d/14QSpDGxo8IXlyCJSBvJAtu5sDe7eydlw=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1hDzbyk9Ta5cNJcQ5F-OHXwDFY5jCzXn-=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1IU5-4uqcfVrA1decepKi_DhEZXCdToOR=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1NytfSHj6kki6Yk7hygKHYsz9Nlr1gfWl=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/876c0e231953453.6892e465025b9.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/a8453e231953453.6892e46501d94.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/429375231953453.6892e465014eb.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/611552231953453.6892e46502c07.jpg",
       ],
       description:
         "Crafted an eye-catching poster that effectively communicated the message and attracted strong audience attention.",
@@ -142,11 +142,11 @@ export default function Portfolio() {
       title: "Free Webinar Broucher",
       category: "print",
       image:
-        "https://lh3.google.com/u/0/d/1AYtpnfkWXEsbyPh_tTDmkERFzsMD_9Xh=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/28924e231953237.6892e305b1de8.jpg",
       images: [
-        "https://lh3.google.com/u/0/d/1AYtpnfkWXEsbyPh_tTDmkERFzsMD_9Xh=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1MgXVu_1bEGgq4NHnUg8hsTgbdIzyqa0R=w1330-h912-iv1?auditContext=prefetch",
-        "https://lh3.google.com/u/0/d/1RHQxxPo-OecF656rws4nFwKaTz_RweC1=w1330-h912-iv1?auditContext=prefetch",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/28924e231953237.6892e305b1de8.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/216ace231953237.6892e305b180d.jpg",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/53237a231953237.6892e305b0b28.jpg",
       ],
       description:
         "Designed a high-converting webinar brochure that boosted sign-ups and elevated the client’s brand image.",
