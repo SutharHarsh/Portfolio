@@ -204,7 +204,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
             <div className="group relative overflow-hidden rounded-2xl">
               <img
-                src="https://readdy.ai/api/search-image?query=EcoVibes%20Daily%20brand%20identity%20showcase%20with%20eco-friendly%20green%20branding%20elements%2C%20sustainable%20design%20concepts%2C%20natural%20color%20palette%20with%20organic%20shapes%20and%20environmental%20themes%2C%20modern%20eco-conscious%20visual%20identity&width=600&height=400&seq=ecovibe_project_001&orientation=landscape"
+                src="https://mir-s3-cdn-cf.behance.net/project_modules/source/6ed8ca231953139.6892e27ff0208.jpg"
                 alt="EcoVibes Daily Project"
                 className="w-full h-80 object-cover group-hover:scale-105 transition-transform duration-300"
               />
@@ -220,7 +220,7 @@ export default function Home() {
 
             <div className="group relative overflow-hidden rounded-2xl">
               <img
-                src="https://readdy.ai/api/search-image?query=BlueprintBay%20corporate%20branding%20with%20sleek%20professional%20blue%20color%20scheme%2C%20modern%20business%20visual%20identity%2C%20clean%20geometric%20designs%20and%20corporate%20materials%2C%20sophisticated%20brand%20elements&width=600&height=400&seq=blueprint_project_001&orientation=landscape"
+                src="https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/97242d231953581.6892e506e4278.jpg"
                 alt="BlueprintBay Project"
                 className="w-full h-80 object-cover group-hover:scale-105 transition-transform duration-300"
               />
